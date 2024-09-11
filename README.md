@@ -13,7 +13,7 @@ This project provides a web application to analyze vehicle data using Streamlit 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Ch-6-Project.git
+   git clone https://github.com/prd-drew/Ch-6-Project.git
 
    
 ## Deployed Streamlit App
