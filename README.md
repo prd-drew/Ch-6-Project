@@ -19,10 +19,11 @@ This project provides a web application that allows users to analyze vehicle dat
 
 ## How to Run the Project Locally
 
-### 1. **Clone the Repository**:
+###  **Clone the Repository**:
    ```bash
    git clone https://github.com/prd-drew/Ch-6-Project.git
-   
+
+---
 
 ## Deployed Streamlit App
 
