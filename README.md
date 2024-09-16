@@ -22,6 +22,7 @@ This project provides a web application that allows users to analyze vehicle dat
 ### 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/prd-drew/Ch-6-Project.git
+   
 
 ## Deployed Streamlit App
 
